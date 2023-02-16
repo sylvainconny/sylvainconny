@@ -1,4 +1,7 @@
 Développeur depuis dix ans, je peux vous accompagner sur tous vos projets de développement de sites internet, e-commerce et application web.
+- [Site internet](https://sylvainconny.com/)
+- [LinkedIn](https://www.linkedin.com/in/sylvainconny/)
+- [Malt](https://www.malt.fr/profile/sylvainconny1)
 
 <!--
 **sylvainconny/sylvainconny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
